@@ -6,7 +6,7 @@ A curated list of PS4 games.
 - TLOU: Remastered 🔵
 - DriveClub 🔵
 - Infamous: Second Son 🔵
-- Rocket League
+- Rocket League 🔵
 - Helldivers 🔵
 - Resogun 🔵
 - The Witcher 3: Wild Hunt
